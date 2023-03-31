@@ -12,3 +12,7 @@ this file is just a readme file.
 
 the purpose of this file is to provide examples
 on how to use git and git hub together.
+
+## Getting strted
+
+To get started with this project, just `clone` this repository.
