@@ -6,4 +6,4 @@ This is a simple README file
 
 Just something going on
 
-addint this test line to be merged
+adding this test line to be merged
